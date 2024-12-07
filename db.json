@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@gmail.com",
+      "password": "123456Nn",
+      "createdAt": 1700313547023
+    },
+    {
+      "id": "b569",
+      "email": "zhigarevichnadya@gmail.com",
+      "password": "12345678Nn",
+      "createdAt": 1732333895359
+    },
+    {
+      "id": "ffb4",
+      "email": "a@gmail.com",
+      "password": "123456Nn",
+      "createdAt": 1732335507745
+    },
+    {
+      "id": "84d5",
+      "email": "hdhsg@gmail.com",
+      "password": "222333nnnM",
+      "createdAt": 1732350431538
+    },
+    {
+      "id": "69e7",
+      "email": "zz@gmail.com",
+      "password": "555666nnnN",
+      "createdAt": 1732350536145
+    },
+    {
+      "id": "25da",
+      "email": "tosha@mail.ru",
+      "password": "Qwerty1234",
+      "createdAt": 1733428239628
+    },
+    {
+      "id": "d831",
+      "email": "example@example.com",
+      "password": "qwertyQ1234",
+      "createdAt": 1733428923828
+    }
+  ],
+  "notes": [
+    {
+      "id": "681b",
+      "authorId": "25da",
+      "title": "grtgeeeer52",
+      "body": "ggt",
+      "createdAt": 1733428272412
+    },
+    {
+      "id": "63a6",
+      "authorId": "25da",
+      "title": "eew",
+      "body": "3",
+      "createdAt": 1733429013116
+    }
+  ]
+}
